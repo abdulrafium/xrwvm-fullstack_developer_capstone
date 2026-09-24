@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # xrwvm-fullstack_developer_capstone
 
 ## Project Name: Cars Dealership - Full Stack Web Application
@@ -39,3 +40,6 @@ A national car retailer web application built with:
 | Database | SQLite, MongoDB |
 | Deployment | Docker, Kubernetes, IBM Cloud Code Engine |
 | CI/CD | GitHub Actions |
+=======
+# xrwvm-fullstack_developer_capstone
+>>>>>>> 8ef103ae7f3260c8c4d5ee56d0cb850c639bfbc6
